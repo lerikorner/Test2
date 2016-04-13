@@ -10,7 +10,7 @@ namespace Testing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine('f');
+            Console.WriteLine('fмими');
             Console.ReadKey();
         }
     }
